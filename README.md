@@ -1,0 +1,1 @@
+This is a basic Java project MyCalculator implemented by using Core Java . It is a simple arithematic calculator which can perform simple operations like Addition,Substraction, Multiplication ,Division etc. 
